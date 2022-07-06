@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anmol Arora
 - 👀 I’m interested in Machine Learning
 - ✌🏻I recently started to use Github. Looking forward to put useful stuff here
-----*Added AlexNet implementation in Pytorch
+  ---Added AlexNet implementation in Pytorch
 - 📫 You can reach me- twitter @anmolarora07
 
 <!---
