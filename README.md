@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anmol Arora
 - 👀 I’m a Lead ML Engineer.
 - ✌🏻Looking forward to put useful stuff here
-  ---Working on a realtime ml model - vision-text-service
+
 - 📫 You can reach me- twitter @anmolarora07
 
 <!---
