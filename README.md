@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Anmol Arora
-- 👀 I’m a Lead ML Engineer.
-- ✌🏻Looking forward to put useful stuff here
-
+- 👀 I’m a Lead ML Engineer
 - 📫 You can reach me- twitter @anmolarora07
 
 <!---
